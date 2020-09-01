@@ -1,0 +1,407 @@
+
+pageul-1
+Arch. Immunol. Ther. Exp. (2010) 58:77-80
+DOI 10.1007/s00005-009-0056-3
+
+ORIGINAL ARTICLE
+
+The Enzymatic Activity of Type 1 Iodothyronine Deiodinase
+(D1) is Low in Liver Hemangioma: A Preliminary Study
+
+Oskar Kornasiewicz - Marcin Debski -
+Marta Stepnowska - Anna Szalas -
+Ewa Bar-Andziak - Marek Krawczyk
+
+Received: 1 August 2008/ Accepted: 7 August 2009/ Published online: 5 January 2010
+© L. Hirszfeld Institute of Immunology and Experimental Therapy, Wroclaw, Poland 2009
+
+Abstract Type | iodothyronine deiodinase (D1) is a cru-
+cial enzyme which converts the prohormone thyroxine (T4)
+into active tri-iodothyronine (T3). There has been strong
+evidence that the metabolism of thyroid hormones is dis-
+turbed in some neoplastic tissues such as thyroid, renal, and
+breast cancer. However, there are few available data about
+D1 enzyme activity in benign tumors such as hemangioma,
+which is the most common primary liver tumor. Hence this
+study aimed to determine the enzymatic activity of D1 in
+hemangiomas in relation to healthy liver tissue. Seven
+tumors and healthy control tissues were obtained from
+patients who had liver resection due to hemangioma. The
+activity was assessed by measurement of radioactive iodine
+released by deiodination catalyzed by D1. It was found that
+D1 activity was significantly lower in the hemagiomas than
+in the healthy surrounding tissue (p = 0.0017). The results
+indicated that thyroid hormones play important roles not
+only in the regulation of cell metabolism, but also in cell
+growth, division, and apoptosis. The active form T3 acts
+through its nuclear receptors and influences the up- and
+down-regulation of target genes. Healthy liver tissue
+expresses a high level of D1, but disturbed D1 activity may
+result in changes in the local concentration of T3 which may
+impair gene transcription. These finding demonstrate a low
+enzymatic activity of D1 in liver hemangioma and suggest an
+
+O. Kornasiewicz (DI!) - M. Krawezyk
+
+Department of General, Transplant, and Liver Surgery,
+Warsaw Medical University, Banacha 1A,
+
+02-097 Warsaw, Poland
+
+e-mail: oskar.kornasiewicz@ gmail.com; oskorn@o2.pl
+
+M. Debski - M. Stepnowska - A. Szatas - E. Bar-Andziak
+Department of Internal Medicine and Endocrinology,
+Warsaw Medical University, Warsaw, Poland
+
+as yet unknown role of thyroid hormones in this type of
+benign liver tumor.
+
+Keywords Hemangioma - Liver resection -
+Iodothyronine deiodinase (D1)
+
+Introduction
+
+The role of thyroid hormones in carcinogenesis has been
+postulated for many years. However, existing data are not
+sufficient for a complete understanding of the process.
+Thyroxin (T4), which is the main product of the thyroid
+gland, is considered a pro-hormone and must be converted
+to the active form, tri-iodothyronine (T3). T3 acts through
+its nuclear receptors, i.e., thyroid hormone receptors
+(TRs), and has significant influence on transcription,
+translation, and cell division and differentiation. T3 is
+produced by monodeiodination catalyzed by type | 10d-
+othyronine deiodinase (D1). This enzyme is present in
+almost all human cells, but the highest concentrations
+were found in the thyroid, liver, and kidneys (Bianco
+et al. 2002). Both its enzymatic activity and its gene
+expression have been examined in some cancers tissues.
+Significant decreases in gene expression and enzyme
+activity were found in papillary thyroid cancer tissue
+(Ambroziak et al. 2005; De Souza Meyer et al. 2005) as
+well as in papillary and follicular thyroid cancer cell lines
+(Arnaldi et al. 2005; Schreck et al. 1994), renal clear cell
+cancer (Pachucki et al. 2001), lung cancer (Wawrzynska
+et al. 2003), and pituitary adenomas (Baur et al. 2002;
+Tannahill et al. 2002). Surprisingly, elevated D1 enzyme
+activity and mRNA expression were described in human
+breast cancer tissue (Debski et al. 2007; Garcia-Solis and
+Aceves 2003).
+pageul-2
+78
+
+There has been strong evidence that the metabolism of
+thyroid hormones is disturbed in some of neoplastic tissues
+(Gonzalez-Sancho et al. 2003; Jakobs et al. 2002). How-
+ever, there are few available data about D1’s enzymatic
+activity in benign tumors such as hemangiomas, which are
+the most common primary liver tumors. Interestingly, in
+this type of benign lesion an elevated level of deiodinase
+type 3 (D3), which inactivates thyroid hormones, was
+reported (Ho et al. 2005; Huang et al. 2005; Konrad et al.
+2003).
+
+The aim of this study was to determine the enzymatic
+activity of D1 in liver hemangioma in comparison with
+healthy liver tissue.
+
+Materials and Methods
+
+Seven tumor samples and an equal number of healthy liver
+control samples were obtained from patients who under-
+went liver resection for hemangioma, which is now a very
+rare indication for surgical intervention. Liver resection is
+limited to a very selected group of patients. There were
+neither postoperative deaths nor major complications. The
+group consisted of three men and four women with a mean
+age of 50 years. Five patients had extended liver resection
+(more than three segments). In two cases the resection
+included two segments. The mean tumor size was 7.86 cm
+(Table 1). The samples were taken from the tumor as well
+as from a site far from it, which was macroscopically
+normal liver tissue. These noncancerous tissues were
+assigned as controls. Immediately after the surgical pro-
+cedures, the samples were frozen in carbon dioxide snow
+and kept at —70°C until needed. In addition, a blood
+sample for thyroid hormone determination (TSH, fT3, and
+fT4) was taken from each patient before the operation. The
+results were within the normal ranges (Table 2).
+
+The tissue samples were thawed and then homogenized
+in homogenization buffer (0.1 M PE [K2HPO4/KH2P04],
+
+Table 1 Demographic data and tumor characteristics
+
+Patient Sex Age Tumor Histopathology
+
+number (cm)
+
+1 F 50 8 Hemangioma
+
+2 M 64 5 Hemangioma
+
+3 F 61 6 Hemangioma
+
+4 F 4] 10 Hemangioma
+
+5 F 40 12 Hemangioma
+
+6 M 56 10 Hemangioma
+
+7 M 38 4 Hemangioma
+Mean 50 7.86
+
+Arch. Immunol. Ther. Exp. (2010) 58:77-80
+
+Table 2 Summary of thyroid hormone results (TSH, fT3, and fT4)
+
+Patient TSH fT4 fT3
+number (0.27-4.2 pI U/ml) (12-22 pmom/l) = (3.1-6.8 pmol/l)
+1 0.731 19.9 4.8
+2 1.850 16.5 4.8
+3 1.430 15.6 4.9
+4 3.610 16.7 4.8
+5 0.822 16.9 4.4
+6 0.334 14.3 4.1
+7 0.983 17.6 4.7
+
+1mM EDTA, 10 mM DTT-dithiothreitol, and 0.25 M
+sucrose, dH,O, pH 7.0). Protein concentration was mea-
+sured by the BCA (bicinchonic acid) method using bovine
+albumin as the standard.
+
+D1 activity was measured by quantification of radioac-
+tive iodide released from 3’5’['*°I]-rT3, which was purified
+by Sephadex LH20 column chromatography just before
+each assay. It was washed out with 10 ml of H,O followed
+by elution with 2 ml of 75% ethanol in 0.5-ml fractions
+(this amount of 75% alcohol did not affect the reaction).
+We used fractions with the highest activity (50,000—60,000
+CMP-counts per minutes) and added 70 ul into each
+reaction tube.
+
+The samples were incubated for 30 min at 37°C in
+phosphate buffer (0.1 M PE and 1 mM EDTA, pH 6.9)
+with | nM unlabeled rT3 and 10 mM DTT. Each assay was
+performed twice and there was always one extra sample
+with propylthiouracyl added to show the inhibition of D1
+by this agent. After incubation, the reaction was stopped by
+placing the samples in an ice bath. Precipitation was then
+caused by adding 100 pl of horse serum and 50 ul of 50%
+trichloroacetic acid. The samples were vortex for 1.5 min
+and centrifuged at 9,000 rpm for 5 min. An aliquot of the
+supernatant containing '*°I, but not labeled iodothyronines,
+was counted in a gamma counter (Wzard-1470, Wallac).
+Final enzymatic activity was expressed as the fmol of
+released '*°I per mg of protein per minute. The STATIS-
+TICA program was used for the statistical analysis.
+
+Results
+
+As this was a preliminary study only, seven tissue samples
+were examined. The median value of Dl enzyme activity
+in the tumor tissue was 32 fmol/(mg-protein min) (range:
+0-132). The median value of its enzymatic activity in the
+healthy control samples was 549 fmol/(mg-protein min)
+(range: 244—1243). D1 activity was significantly lower in the
+hemagiomas than in the healthy liver samples (p < 0.0017;
+Figs. 1, 2).
+pageul-3
+Arch. Immunol. Ther. Exp. (2010) 58:77-80
+
+~T_ Min-Max
+CC] 25%-75%
+
+Hemangioma rr ee
+
+fmol/mg/min
+®
+°
+3°
+
+0 —
+
+-200
+
+control tumor
+
+Fig. 1 Comparison of D1 activity in hemangioma and surrounding
+
+B control
+®B tumor
+
+normal liver (control)
+
+   
+
+1400
+
+= 1200
+
+‘E 1000
+
+@ 800
+
+E 600
+
+2 ac —
+
+4 mo
+1 2 3 4 5 6 7
+cases
+
+Fig. 2 D1 activity in each of the seven cases
+
+Discussion
+
+The presented data showed very low, almost undetectable,
+activity of D1 in 6 of the 7 investigated hemangioma tissue
+samples, especially in comparison with healthy liver tissue,
+which was thought to be responsible for ca. 70% of the
+peripheral activation of T4 (Macke-Nauman 1990). How-
+ever, more recent data suggest that more T3 may be
+produced by D2 deiodination, which takes place in skeletal
+muscle as well as in liver tissue (Maia et al. 2005; Salva-
+tore et al. 1996). This result could be associated with the
+differences in hemangioma and healthy liver tissue mor-
+phology. The largest part of the tumor develops from
+endothelial cells derived from epithelium, not hepatocytes.
+It was demonstrated that there is a high prevalence of the
+major physiological inactivator of thyroid hormones, D3,
+in the epithelium, which causes results opposite to those of
+D1 (Huang 2005; Huang et al. 2003; Zhang et al. 2006).
+The effect of D3 could appear as a very low concentration
+of thyroid hormones in the lesion, but there is no strong
+evidence concerning this occurrence. It seems reasonable
+to investigate rT3 and fT3 concentration in situ as next part
+of our studies.
+
+It was also observed that the rapid resolution of con-
+sumptive hypothyroidism in children with multiple hepatic
+
+79
+
+hemangiomas is a result of the high enzymatic activity of
+D3 and the production of TSH-like hormone by the tumor
+tissue. Children who required high doses of thyroid hor-
+mones were cured following liver transplantation, which
+proves the positive correlation between D3 enzyme activity
+in hemangiomas and hypothyroidism. Isolated incidents
+were also noted in adults (Ho et al. 2005; Huang et al.
+2005; Konrad et al. 2003).
+
+In conclusion, thyroid hormones play important roles
+not only in the regulation of cell metabolism, but also in
+cell growth, division, and apoptosis. The active form T3
+acts through its nuclear receptors and influences the up-
+and down-regulation of target genes. Disturbed activity of
+D1 may result in changes in the local concentration of T3.
+Furthermore, it may impair some gene transcription. Our
+finding clearly demonstrates a low enzymatic activity of
+D1 in liver hemangioma and suggests a so far unknown
+role of thyroid hormones in this type of liver tumor, which
+makes further investigation reasonable.
+
+References
+
+Ambroziak M, Pachucki J, Stachlewska-Nasfeter E et al (2005)
+Disturbed expression of type 1 and type 2 iodothyronine
+deiodinase as well as titf1/nkx2-1 and pax-8 transcription factor
+genes in papillary thyroid cancer. Thyroid 15:1137-1146
+
+Armaldi LA, Borra RC, Maciel RM et al (2005) Gene expression
+profiles reveal that DCN, DIO1, and DIO2 are underexpressed in
+benign and malignant thyroid tumors. Thyroid 15:210—221
+
+Baur A, Buchfelder M, Kohrle J (2002) Expression of 5’-deiodinase
+enzymes in normal pituitaries and in various human pituitary
+adenomas. Eur J Endocrinol 147:263—268
+
+Bianco AC, Salvatore D, Gereben B et al (2002) Biochemistry,
+cellular and molecular biology, and physiological role of the
+iodothyronine selenodeiodinases. Endocr Rev 23:38-89
+
+De Souza Meyer EL, Dora JM, Wagner MS et al (2005) Decreased
+type 1 iodothyronine deiodinase expression might be an early
+and discrete event in thyroid cell dedifferentation towards
+papillary carcinoma. Clin Endocrinol 62:672—678
+
+Debski MG, Pachucki J, Ambroziak M et al (2007) Human breast
+cancer tissue expresses high level of type 1 5/-deiodinase.
+Thyroid 17:3-10
+
+Garcia-Solis P, Aceves C (2003) 5’Deiodinase in two breast cancer
+cell lines: effect of triiodothyronine, isoproterenol and retinoids.
+Mol Cell Endocrinol 201:25-—31
+
+Gonzalez-Sancho JM, Garcia V, Bonilla F et al (2003) Thyroid
+hormone receptors/THR genes in human cancer. Cancer Lett
+192:121-132
+
+Ho J, Kendrick V, Dewey D et al (2005) New insight into the
+pathophysiology of severe hypothyroidism in an infant with
+multiple hepatic hemangiomas. J Pediatr Endocrinol Metab
+18:511-514
+
+Huang SA (2005) Physiology and pathophysiology of type 3
+deiodinase in humans. Thyroid 15:875-881
+
+Huang SA, Dorfman DM, Genest DR (2003) Type 3 iodothyronine
+deiodinase is highly expressed in the human uteroplacental
+unit and in fetal epithelium. J Clin Endocrinol Metab 88:
+1384-1388
+pageul-4
+80
+
+Huang SA, Mulcahey MA, Crescenzi A et al (2005) Transforming
+growth factor-beta promotes inactivation of extracellular thyroid
+hormones via transcriptional stimulation of type 3 iodothyronine
+deiodinase. Mol Endocrinol 19:3126—3136
+
+Jakobs TC, Mentrup B, Schmutzler C et al (2002) Proinflammatory
+cytokines inhibit the expression and function of human type I
+5'deiodinase in HepG2 hepatocarcinoma cells. Eur J Endocrinol
+146:559-566
+
+Konrad D, Ellis G, Perlman K (2003) Spontaneous regression of
+severe acquired infantile hypothyroidism associated with multi-
+ple liver hemangiomas. Pediatrics 112(6 Pt 1):1424—-1426
+
+Macke-Nauman A (1990) Monodejodynacja tyroksyny do trijodotyron-
+iny — specyficznos¢ tkankowa. Regulacyjny wptyw katecholamin.
+Endokrynol Pol 41:4—54
+
+Maia AL, Kim BW, Huang SA et al (2005) Type 2 iodotyronine
+deiodinase is the major source of plasma T3 in euthyroid
+humans. J Clin Invest 115:2524—2533
+
+Pachucki J, Ambroziak M, Tanski Z et al (2001) Type 1 5’-
+iodothyronine deiodinase activity and mRNA are remarkably
+
+Arch. Immunol. Ther. Exp. (2010) 58:77-80
+
+reduced in renal clear cell carcinoma. J Endocrinol Invest
+24:253-261
+
+Salvatore D, Bartha T, Harney JW et al (1996) Molecular biological
+and biochemical characterization of the human type 2 selenode-
+iodinase. Endocrinology 137:3308—3315
+
+Schreck R, Schnieders F, Schmutzler C et al (1994) Retinoids
+stimulate type I iodothyronine 5’-deiodinase activity in human
+follicular thyroid carcinoma cell lines. J Clin Endocrinol Metab
+79:79 1-798
+
+Tannahill LA, Visser TJ, McCabe CJ et al (2002) Dysregulation of
+iodothyronine deiodinase enzyme expression and function in
+human pituitary tumours. Clin Endocrinol 56:735—743
+
+Wawrzynska L, Sakowicz A, Rudzinski P et al (2003) The conversion
+of thyroxine to triiodothyronine in the lung: comparison of
+activity of type I iodothyronine 5’ deiodinase in lung cancer with
+peripheral lung tissues. Monaldi Arch Chest Dis 59:140-145
+
+Zhang WJ, Ye LY, Wu LQ et al (2006) Morphologic, phenotypic and
+functional characteristics of endothelial cells derived from
+human hepatic cavernous hemangioma. J Vasc Res 43:522-532
